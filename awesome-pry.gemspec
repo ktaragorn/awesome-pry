@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'awesome_pry/version'
+require 'awesome-pry/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "awesome_pry"
+  spec.name          = "awesome-pry"
   spec.version       = AwesomePry::VERSION
   spec.authors       = ["Karthik T"]
   spec.email         = ["karthikt.holmes+github@gmail.com"]

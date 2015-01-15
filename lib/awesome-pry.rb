@@ -1,4 +1,4 @@
-require "awesome_pry/version"
+require "awesome-pry/version"
 
 module AwesomePry
   # Your code goes here...
