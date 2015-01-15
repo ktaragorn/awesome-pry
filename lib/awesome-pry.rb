@@ -1,4 +1,11 @@
 require "awesome-pry/version"
+require "pry"
+require "pry-rails"
+require "awesome_print"
+require "pry-byebug"
+require "pry-doc"
+require "pry-stack_explorer"
+
 
 module AwesomePry
   # Your code goes here...
