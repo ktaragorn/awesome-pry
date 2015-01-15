@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "pry"
+  spec.add_dependency "pry-rails"
   spec.add_dependency "awesome_print"
   spec.add_dependency "pry-byebug"
   spec.add_dependency "pry-doc"
