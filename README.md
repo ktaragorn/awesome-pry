@@ -6,7 +6,7 @@ Wrapper gem to wrap some useful gems around pry - `pry-byebug`, `awesome_print`,
 
 Add this line to your application's Gemfile:
 
-    gem 'awesome_pry'
+    gem 'awesome-pry'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install awesome_pry
+    $ gem install awesome-pry
 
 ## Usage
 
