@@ -1,6 +1,6 @@
 # AwesomePry
 
-TODO: Write a gem description
+Wrapper gem to wrap some useful gems around pry - `pry-byebug`, `awesome_print`, `pry-doc`, `pry-stack_explorer`
 
 ## Installation
 
